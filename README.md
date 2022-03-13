@@ -1,7 +1,7 @@
-# Seja bem vindo !
+# Seja bem vindo - perfil
 ![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=R0nld0&show_icons=true&theme=midnight-purple)
 ## REDES SOCIAIS
-[instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1uta7vbdsqrkx&utm_content=3kw6hgt)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1uta7vbdsqrkx&utm_content=3kw6hgt)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![whatssapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952323524)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
